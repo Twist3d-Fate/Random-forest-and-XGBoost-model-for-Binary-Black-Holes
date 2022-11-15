@@ -2,6 +2,8 @@
 
 ## DEPARTMENT OF PHYSICS AND ASTRONOMY "GALILEO GALILEI" ##
 
+!Please do not copy this original work.
+
 The purpose of this study is to investigate if it is possible to anticipate the key outcomes of a BPS simulation given a set of initial variables using machine learning techniques.
 
 ![](cover.png)
@@ -23,7 +25,7 @@ Due to the characteristics of black holes and the limited methods of detection, 
 
 ![](bbh2.png)
 
-#Dataset Description
+# Dataset Description
 
 1) Mass_0/1: total mass of a star in Msun
 
@@ -50,3 +52,17 @@ total amount of electromagnetic radiation)
 
 The same dataset has been used to train both Random Forets and XGBoost Classifiers for performance comparison.
 ![](models.png)
+
+# Training & GridSearchCV
+
+![](gridsearch.png)
+
+# Feature Importance
+
+![](feature_importance.png)
+
+# Confusion Matrix
+
+![](confusion_matrix.png)
+
+
