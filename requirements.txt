@@ -1,0 +1,6 @@
+pip>=22.1.2
+xgboost
+protobuf
+tsfresh
+graphviz
+optuna
